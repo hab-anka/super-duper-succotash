@@ -1,3 +1,3 @@
 # super-duper-succotash
 
-Anna's test repo is awesome.
+Anna's test repo is awesome. Really awesome.
